@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "128606091454",
+    "project_id": "yukuri-dd533",
+    "storage_bucket": "yukuri-dd533.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128606091454:android:018fad3bbe0e938f7c46ef",
+        "android_client_info": {
+          "package_name": "com.takahidesato.android.yukuri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128606091454-g4u7ukdigq629tbkbidr18lu199md0eg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgSeBBgK_goheEAquO-tyT2_zw_HYO9to"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128606091454-g4u7ukdigq629tbkbidr18lu199md0eg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
